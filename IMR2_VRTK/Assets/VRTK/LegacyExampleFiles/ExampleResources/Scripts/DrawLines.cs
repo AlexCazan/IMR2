@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class DrawScript : MonoBehaviour
+public class DrawLines : MonoBehaviour
 {
     private LineRenderer lineRenderer;
     public GameObject creta;
